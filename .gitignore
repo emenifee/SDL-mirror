@@ -1,0 +1,8 @@
+VisualC/.vs/
+build/.vs/
+build/CMakeFiles
+build/Debug
+build/SDL2-static.dir/
+build/SDL2.dir/
+build/SDL2main.dir/
+build/Win32/
